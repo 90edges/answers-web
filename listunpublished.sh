@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#  list all .html files in _posts folder with "published: false"
+# list all .html files in _posts folder with "published: false"
 
 cd _posts
 for i in *.html;
